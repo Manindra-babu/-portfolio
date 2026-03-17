@@ -2,7 +2,7 @@
 
 A unique and interactive developer portfolio designed as a **crime investigation experience**, where users explore skills, projects, and achievements as case files.
 
-🔗 **Live Demo:** https://your-portfolio.onrender.com
+🔗 **Live Demo:** https://manindra-babu-portfolio.onrender.com
 
 ---
 
@@ -132,7 +132,7 @@ open index.html
 ## 📬 Contact
 
 * GitHub: https://github.com/Manindra-babu
-* LinkedIn: [(Add your link)](https://www.linkedin.com/in/manindra-chowdhary-198747333?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+* LinkedIn: (https://www.linkedin.com/in/manindra-chowdhary-198747333?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 ---
 
